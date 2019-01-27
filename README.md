@@ -11,7 +11,3 @@ List of projects:
 5. [Guided Project: Visualizing The Gender Gap In College Degrees](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Visualizing%20The%20Gender%20Gap%20In%20College%20Degrees)
 6. [Guided Project: Analyzing CIA Factbook Data Using SQLite and Python](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Analyzing%20CIA%20Factbook%20Data%20Using%20SQLite%20and%20Python)
 7. 
-
-Projects skipped at the moment:
-1. 2 projects from Step 2.4 - Data Cleaning
-2. Step 3 - Command Line
