@@ -15,6 +15,6 @@ List of projects:
 9. Guided Project: Designing and Creating a Database (SOON)
 10. Guided Projects from Mathematics - 3 projects (SOON)
 11. [Guided Project: Predicting Car Prices](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Predicting%20Car%20Prices)
-12. [Guided Project_ Predicting House Sale Prices](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices)
+12. [Guided Project: Predicting House Sale Prices](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices)
 13.
 14.
