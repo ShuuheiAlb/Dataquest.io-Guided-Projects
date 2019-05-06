@@ -18,3 +18,4 @@ List of projects:
 12. [Guided Project: Predicting House Sale Prices](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Predicting%20House%20Sale%20Prices)
 13. Guided Project: Predicting the stock market (SOON)
 14. [Guided Project: Predicting Bike Rentals](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Predicting%20Bike%20Rentals)
+15. [Guided Project: Building A Handwritten Digits Classifier](https://github.com/ShuuheiAlb/Dataquest.io-Guided-Projects/tree/master/Guided%20Project_%20Building%20A%20Handwritten%20Digits%20Classifier)
